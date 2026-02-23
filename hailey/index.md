@@ -2,6 +2,23 @@
 title: Emails from Hailey
 ---
 
+# Hailey in Keane in 2016/2017
+
+The address on this cheque shows that Hailey moved out of her mothers home before she went to Nova Scotia.
+
+![Void Cheque](/img/2017-10-30_void-cheque.png)
+
+Hailey [emailed me](/hailey/2017-10-30_hailey-void-cheque.pdf) this cheque so I could send her $700 a month so she could focus on school.
+
+---
+
+# Hailey in Nova Scotia 2017/2018
+
+Hailey [emailed me](/hailey/2018-09-14_hailey-in-halifax.pdf) her Dalhousie student transcript. Obviously she wasn't living with her mother in Ontario. My father created an RESP to support her education. The amount was about $20,000.
+
+![Dalhousie Transcript](/img/2018-09-14_Dalhousie-transcript.png)
+
+---
 
 # Emails from Hailey
 
