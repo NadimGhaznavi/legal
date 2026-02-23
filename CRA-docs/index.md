@@ -25,19 +25,21 @@ title: CRA Table of Contents
 # 2019 Tax Year
 
 Document Date | Document Description
---------------|----------------------------
+--------------|-----------------------------------------------------------------------------------------
 2019/06/10    | [Amount due: $5,263.18](/CRA-docs/2019-06-10-Statement-of-Account.pdf)
 2019/06/10	  | [Notice of Collection for $5,295.29](/CRA-docs/2019-07-10-Notice-of-Collection.pdf)
+
 ---
 
 # 2018 Tax Year
 
 Document Date | Document Description
---------------|----------------------------
+--------------|--------------------------------------------------------------------------------------------------
 2019/11/21	  | [2018 Assessment: $349.33 transferred to Child Support Account](/CRA-docs/2018-Assessment.pdf)
 2019/11/21	  | [2018 Assessment](/CRA-docs/2019-11-21-Notice-of-Assessment-for-2018.pdf)
 2018/05/14	  | [Pre-Authorized Debit Confirmation](/CRA-docs/2018-05-14-PAD-Agreement-Letter.pdf)
 2019/01/03	  | [Payment receipt ($428) for 2018](/CRA-docs/2019-02-15-Payment-Summary-for-2018.pdf)
+
 ---
 
 # 2017 Tax Year
