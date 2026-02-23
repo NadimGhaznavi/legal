@@ -4,6 +4,17 @@ title: A Case of Fraud
 
 ---
 
+# Table of Contents
+
+- [Contact with FRO](/fro/index.html)
+- [Hailey's Location](/hailey/index.html)
+- [CRA Documents](/CRA-docs/index.html)
+- [Latest Court Order](/legal/2025/05/01/Court-Order.html)
+- [Contact wth Legal Aid](/legal-aid/index.html)
+- [Employment in 2019](/lawn-consultant/index.html)
+
+---
+
 # Key Events
 
 Date       | Event
@@ -20,13 +31,4 @@ Date       | Event
 2016/12/31 | Nadim is laid off on New Years from his job at CIBC
 
 ---
-
-# Table of Contents
-
-- [Contact with FRO](/fro/index.html)
-- [Hailey's Location](/hailey/index.html)
-- [CRA Documents](/CRA-docs/index.html)
-- [Latest Court Order](/legal/2025/05/01/Court-Order.html)
-- [Contact wth Legal Aid](/legal-aid/index.html)
-- [Employment in 2019](/lawn-consultant/index.html)
 
