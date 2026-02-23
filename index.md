@@ -12,6 +12,7 @@ title: A Case of Fraud
 - [Latest Court Order](/legal/2025/05/01/Court-Order.html)
 - [Contact wth Legal Aid](/legal-aid/index.html)
 - [Employment in 2019](/lawn-consultant/index.html)
+- [Overpayment of Child Support](/overpayment.html)
 
 ---
 
@@ -25,6 +26,7 @@ Date       | Event
 2019/06/01 | Madeline moves out of her mothers house. 
 2018/09    | Hailey begins her 2nd year at Dalhousie, she only completes one term
 2018/06+   | Hailey spends the summer in Nova Scotia
+2017/11    | Nadim starts sending Hailey $700 a month to help her with living costs while in school
 2017/09    | Hailey starts school in Dalhousie, Nova Scotia
 2017/01/31 | Nadim pays $1,105 in support, bringing the case balance to $0.
 2016/10/01 | Hailey moves out of her mothers house. She is beginning Grade 12.
