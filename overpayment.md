@@ -20,6 +20,8 @@ Date       | Description                                                        
 2018/06/08 | [OTB credit](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)         | $   296.00
 2018/06/05 | [OTB credit](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)     | $   280.00
 
+**Total amount that was overpaid since the kids moved out: $5,684.18**
+
 ---
 
 # CRA Mayhem

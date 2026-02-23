@@ -4,6 +4,15 @@ title: A Case of Fraud
 
 ---
 
+Hailey moved out of her mother's home in October of 2016 at the beginning of
+Grade 12. After graduating from high school she moved to Nova Scotia and enrolled
+in Dalhousie the the 2017/18 year. She also finished one term of the 2018/2019 year.
+
+Tara Evans, the mother, claims that Hailey was living with her at home and enrolled
+in school up to May 1, 2019. Tara lives in Ontario, outside of Peterborough. 
+
+---
+
 # Table of Contents
 
 - [Contact with FRO](/fro/index.html)
