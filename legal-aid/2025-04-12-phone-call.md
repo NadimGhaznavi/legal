@@ -1,5 +1,6 @@
 ---
 title: Legal Aid Call
+date: 2025-04-12
 ---
 
 Spoke with a lawyer:
