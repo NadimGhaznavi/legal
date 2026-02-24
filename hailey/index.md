@@ -4,7 +4,7 @@ title: Emails from Hailey
 
 # Hailey in Keane in 2016/2017
 
-The address on this cheque shows that Hailey moved out of her mothers home before she went to Nova Scotia.
+The address on this cheque shows that Hailey moved out of her mothers home before she went to Nova Scotia. Unfortunately this is the only documentation I have to support this fact.
 
 ![Void Cheque](/img/2017-10-30_void-cheque.png)
 
