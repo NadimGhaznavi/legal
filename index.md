@@ -7,7 +7,13 @@ title: Support Recalculation – October 2016 to May 2019
 Hailey moved out of Tara Evans’ residence in October 2016.
 
 She began attending Dalhousie University in Nova Scotia in September 2017 and 
-remained in Nova Scotia for the 2017/18 academic year and part of 2018/19.
+remained in Nova Scotia for the 2017/18 academic year. She remained in 
+Nova Scotia for the summer and started the next semester at Dalhousie in 
+September. She only completed one semester of the 2018/19 school year.
+
+Her education and educational costs were covered by an RESP setup by my
+father. Additionally, I sent her $700 a month from November of 2017 though to
+June of 2018.
 
 Tara Evans reported to the Family Responsibility Office that Hailey continued
 to reside with her until May 1, 2019 and remained enrolled in school during 
@@ -33,6 +39,7 @@ That representation is false.
 I am seeking:
 
 - Recalculation of support for October 2016 – May 2019.
+  - Ms. Evans owes me child support if anything...
 - Elimination of improperly calculated arrears.
 - Recovery of overpayments.
 - Interest where applicable.
