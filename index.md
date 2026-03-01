@@ -50,11 +50,15 @@ I am seeking:
 # Table of Contents
 
 - [Contact with FRO](/fro/index.html)
-- [Hailey's Location](/hailey/index.html)
-- [CRA Documents](/CRA-docs/index.html)
-- [Latest Court Order](/court-order/index.html)
 - [Contact wth Legal Aid](/legal-aid/index.html)
-- [Employment in 2019](/lawn-consultant/index.html)
+
+- [Documentation showing Hailey's Location](/hailey/index.html)
+
+- [My CRA Documents](/CRA-docs/index.html)
+- [Employment in 2019](/lawn-consultant/index.html) - Tax return pending
+
+- [Latest Court Order](/court-order/index.html)
+
 - [Overpayment of Child Support](/overpayment.html)
 
 ---
