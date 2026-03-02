@@ -36,14 +36,20 @@ That representation is false.
 
 # Adjustment and Reimbursement of Overpayment
 
+I contacted the FRO and asked that they contact Tara Evans to see if she 
+would be willing to withdraw her claim on the arrears, but she did not.
+This would have given her over $5,000 in overpayments. Instead she stuck with 
+her story that she's entitled to the alleged arrears.
+
+
 I am seeking:
 
 - Recalculation of support for October 2016 – May 2019.
-  - Ms. Evans owes me child support if anything...
 - Elimination of improperly calculated arrears.
 - Recovery of overpayments.
 - Interest where applicable.
 - Enforcement mechanism sufficient to ensure recovery.
+- Child Support for Hailey while she was studying in Dalhousie.
 
 ---
 
