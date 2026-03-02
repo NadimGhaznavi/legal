@@ -5,6 +5,8 @@ title: Contact with Legal Aid
 - LAO phone number: 416-979-1446
 - LAO client ID: 1943961
 
+- Hamilton Family Cout: 905-645-6250
+
 # Phone Calls
 
 - [Feb. 24, 2026 - Phonecall - 2](/legal-aid/2026-02-24-b-phone-call.html)
