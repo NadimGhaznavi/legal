@@ -28,6 +28,13 @@ send a paper return for processing.
 
 ---
 
+# 2026-03-03 @ 11:52
+
+I phoned the CRA and spoke with Veronica (650369-Quebec) who advised me to 
+leave line 44880 blank and try again.
+
+---
+
 # T1 General
 
 ![T1 General](/CRA-docs/Tax-return-issues/2019-t1-general.png)
