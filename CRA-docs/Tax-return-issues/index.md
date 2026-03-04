@@ -33,27 +33,3 @@ send a paper return for processing.
 I phoned the CRA and spoke with Veronica (650369-Quebec) who advised me to 
 leave line 44880 blank and try again.
 
----
-
-# T1 General
-
-![T1 General](/CRA-docs/Tax-return-issues/2019-t1-general.png)
-
----
-
-# Schedule 8
-
-![Schedule 8](/CRA-docs/Tax-return-issues/2019-schedule-8.png)
-
----
-
-# Schedule 14
-
-![Schedule 14](/CRA-docs//Tax-return-issues/2019-schedule-14.png)
-
----
-
-# ON 428
-
-![ON 428](/CRA-docs/Tax-return-issues/2019-on-428.png)
-
