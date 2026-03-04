@@ -67,6 +67,8 @@ I am seeking:
 
 - [Overpayment of Child Support](/overpayment.html)
 
+- [Resources](/resources/index.html)
+
 ---
 
 # Key Events
