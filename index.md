@@ -6,18 +6,17 @@ title: Support Recalculation – October 2016 to May 2019
 
 Hailey moved out of Tara Evans’ residence in October 2016.
 
-She began attending Dalhousie University in Nova Scotia in September 2017 and 
-remained in Nova Scotia for the 2017/18 academic year. She remained in 
-Nova Scotia for the summer and started the next semester at Dalhousie in 
-September. She only completed one semester of the 2018/19 school year.
+She began attending Dalhousie University in Nova Scotia in September 2017.She 
+remained in Nova Scotia for the summer of 2018 and worked to support herself.
+She started the semester at Dalhousie in September 2018. She only completed one 
+semester of the 2018/19 school year.
 
 Her education and educational costs were covered by an RESP setup by my
-father. Additionally, I sent her $700 a month from November of 2017 though to
-June of 2018.
+father, Yaqoob Ghaznavi. Additionally, I sent her $700 a month from November of 
+2017 though toJune of 2018.
 
-Tara Evans reported to the Family Responsibility Office that Hailey continued
-to reside with her until May 1, 2019 and remained enrolled in school during 
-that time.
+Tara Evans reported to the Family Responsibility Office that is entitled to child
+support through till May 1, 2019.
 
 Support enforcement continued on the basis of that representation.
 
