@@ -58,8 +58,9 @@ I am seeking:
 - [Contact with FRO](/fro/index.html)
 - [Contact wth Legal Aid](/legal-aid/index.html)
 
-- [Documentation showing Hailey's Location](/hailey/index.html)
+- [Life Events for Hailey](/hailey/index.html)
 
+- [CRA Issues](/cra.md)
 - [My CRA Documents](/CRA-docs/index.html)
 - [Employment in 2019](/lawn-consultant/index.html) - Tax return pending
 
@@ -71,7 +72,7 @@ I am seeking:
 
 ---
 
-# Key Events
+# Key Life Events for Hailey
 
 Date       | Event
 -----------|-----------------------------------------------------

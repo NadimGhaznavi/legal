@@ -20,7 +20,20 @@ Hailey [emailed me](/hailey/2018-09-14_hailey-in-halifax.pdf) her Dalhousie stud
 
 ---
 
-# Emails
+# Nadim Sending Hailey $700 / Month
+
+- [2017/10/30 - Hailey accepting $700/Month from me](/hailey/2017-10-30_hailey-in-halifax-to-nadim.pdf)
+- [2018/11/26 - I stop sending $700 / month to Hailey](/hailey/2018-11-26_hailey-acknowledgement.pdf)
+
+---
+
+# RESP setup by Yaqoob Ghaznavi for Hailey
+
+- 2026/03/03 | Linda  | [RESP funds to Hailey](/hailey/2026-03-03_executor-of-the-estate.pdf)
+
+---
+
+# Email Documentation
 
 Date       | From   | Summary
 -----------|--------|-------------
