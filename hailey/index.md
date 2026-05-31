@@ -1,5 +1,5 @@
 ---
-title: Emails from Hailey
+title: Life Events for Hailey
 ---
 
 # Hailey in Keane in 2016/2017
