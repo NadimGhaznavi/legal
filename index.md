@@ -27,9 +27,9 @@ That representation is false.
 
 # Impact of the Alleged Arrears
 
-- Credit rating is awful.
+- Credit rating is badly affected.
 - Employment opportunities requiring credit checks unavailable.
-- Financial loss from **past** and **ongoing** overpayment:
+- Financial loss from [overpayments](/overpayment.html):
   - Approximately **$6,000** and **climbing**.
 
 ---
