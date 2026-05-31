@@ -5,7 +5,7 @@ title: Resources
 Some resources provided by 
 [AXIS Family Mediation](http://www.axisfamilymediation.com/).
 
-- [Procedure for chaing a Final Order](https://www.ontario.ca/laws/regulation/990114#BK39)
+- [Procedure for changing a Final Order](https://www.ontario.ca/laws/regulation/990114#BK39)
 
 # Government forms and procedures
 
