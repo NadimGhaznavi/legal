@@ -34,13 +34,20 @@ That representation is false.
 
 ---
 
-# Adjustment and Reimbursement of Overpayment
+# Attempted Settlement
 
-I contacted the FRO and asked that they contact Tara Evans to see if she 
-would be willing to withdraw her claim on the arrears, but she did not.
+I have sent Tara an email through Madeline on May 30, 2026 asking that she 
+contact FRO and asdvise them that I do not owe her any back support. I 
+included links to the current garnishment statements.
+
+In March of 2026, I contacted the FRO and asked that they contact Tara to see if 
+she would be willing to withdraw her claim on the arrears, but she did not.
 This would have given her over $5,000 in overpayments. Instead she stuck with 
 her story that she's entitled to the alleged arrears.
 
+---
+
+# Goals
 
 I am seeking:
 
@@ -53,7 +60,7 @@ I am seeking:
 
 ---
 
-# Table of Contents
+# Supporting Documents
 
 - [Contact with FRO](/fro/index.html)
 - [Contact wth Legal Aid](/legal-aid/index.html)
